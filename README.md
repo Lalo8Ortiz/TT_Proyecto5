@@ -5,4 +5,7 @@ Se realizó un pequeño estudio de la informacion recolectada en el archivo CSV 
 se crearon diferentes tipos de gráficos :
 -Boxplot
 -grafico de barras
--grafico de tendencia por precio 
+
+
+
+Link a la aplición : https://tt-proyecto5.onrender.com
